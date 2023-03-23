@@ -1376,6 +1376,8 @@
 				<false/>
 				<key>Flavour</key>
 				<string>Auto</string>
+				<key>FullNvramAccess</key>
+                <false/>
 				<key>Name</key>
 				<string>CustomOS</string>
 				<key>Path</key>
@@ -1657,6 +1659,8 @@
 				<string>OpenCanopy.efi</string>
 				<key>Enabled</key>
 				<true/>
+				<key>LoadEarly</key>
+                <false/>
 				<key>Path</key>
 				<string>OpenCanopy.efi</string>
 			</dict>
@@ -1667,6 +1671,8 @@
 				<string>OpenHfsPlus.efi</string>
 				<key>Enabled</key>
 				<true/>
+				<key>LoadEarly</key>
+                <false/>
 				<key>Path</key>
 				<string>OpenHfsPlus.efi</string>
 			</dict>
