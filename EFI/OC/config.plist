@@ -295,9 +295,9 @@
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>00009B3E</data>
+				<data>AACbPg==</data>
 				<key>device-id</key>
-				<data>9B3E0000</data>
+				<data>mz4AAA==</data>
 				<key>enable-hdmi20</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-con0-alldata</key>
@@ -1371,7 +1371,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 debug=0x100 alcid=71 -igfxmlr</string>
+				<string>alcid=71 </string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -1438,25 +1438,25 @@
 		<key>Generic</key>
 		<dict>
 			<key>AdviseFeatures</key>
-            <false/>
-            <key>MLB</key>
-            <string>C029383014NJH4R1M</string>
-            <key>MaxBIOSVersion</key>
-            <false/>
-            <key>ProcessorType</key>
-            <integer>0</integer>
-            <key>ROM</key>
-            <string>F81EDF6ADAB7</string>
-            <key>SpoofVendor</key>
-            <true/>
-            <key>SystemMemoryStatus</key>
-            <string>Auto</string>
-            <key>SystemProductName</key>
-            <string>MacBookPro15,2</string>
-            <key>SystemSerialNumber</key>
-            <string>C02ZFXYTJHCC</string>
-            <key>SystemUUID</key>
-            <string>3906074E-A425-4795-BC5C-6A2DE567929E</string>
+			<false/>
+			<key>MLB</key>
+			<string>FVF021802GU0000JA</string>
+			<key>MaxBIOSVersion</key>
+			<false/>
+			<key>ProcessorType</key>
+			<integer>0</integer>
+			<key>ROM</key>
+			<string>54724FF0DEE8</string>
+			<key>SpoofVendor</key>
+			<true/>
+			<key>SystemMemoryStatus</key>
+			<string>Auto</string>
+			<key>SystemProductName</key>
+			<string>MacBookPro15,4</string>
+			<key>SystemSerialNumber</key>
+			<string>FVFCR0AXL40Y</string>
+			<key>SystemUUID</key>
+			<string>7D0FF12A-9400-437B-ADB6-F243E409E102</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
